@@ -1,0 +1,54 @@
+/usr/lib/jvm/java-11-openjdk-amd64/bin/javadoc
+@options
+@packages
+-classpath
+'/home/akai/Documents/tpmaven/target/classes:/home/akai/Documents/tpmaven/target/test-classes:/home/akai/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/home/akai/.m2/repository/com/itextpdf/itextpdf/5.5.13.1/itextpdf-5.5.13.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/akai/Documents/tpmaven/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/akai/Documents/tpmaven/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'tpmaven 1 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/akai/Documents/tpmaven/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'tpmaven 1 Test API'
+fr.esir.omd.ci
+/home/akai/Documents/tpmaven/target/classes = 1665700684756
+/home/akai/Documents/tpmaven/target/test-classes = 1665700734921
+/home/akai/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar = 1665697611533
+/home/akai/.m2/repository/com/itextpdf/itextpdf/5.5.13.1/itextpdf-5.5.13.1.jar = 1665697613381
+/home/akai/Documents/tpmaven/src/test/java = 1665498852000
+/home/akai/Documents/tpmaven/target/site/testapidocs/allclasses.html = 1665700785150
+/home/akai/Documents/tpmaven/target/site/testapidocs/package-search-index.js = 1665700785130
+/home/akai/Documents/tpmaven/target/site/testapidocs/type-search-index.js = 1665700785134
+/home/akai/Documents/tpmaven/target/site/testapidocs/search.js = 1665700785158
+/home/akai/Documents/tpmaven/target/site/testapidocs/index-all.html = 1665700785134
+/home/akai/Documents/tpmaven/target/site/testapidocs/member-search-index.js = 1665700785134
+/home/akai/Documents/tpmaven/target/site/testapidocs/index.html = 1665700785150
+/home/akai/Documents/tpmaven/target/site/testapidocs/constant-values.html = 1665700785106
+/home/akai/Documents/tpmaven/target/site/testapidocs/element-list = 1665700785082
+/home/akai/Documents/tpmaven/target/site/testapidocs/type-search-index.zip = 1665700785134
+/home/akai/Documents/tpmaven/target/site/testapidocs/allclasses-index.html = 1665700785142
+/home/akai/Documents/tpmaven/target/site/testapidocs/member-search-index.zip = 1665700785134
+/home/akai/Documents/tpmaven/target/site/testapidocs/package-search-index.zip = 1665700785130
+/home/akai/Documents/tpmaven/target/site/testapidocs/script.js = 1665700785158
+/home/akai/Documents/tpmaven/target/site/testapidocs/overview-tree.html = 1665700785118
+/home/akai/Documents/tpmaven/target/site/testapidocs/deprecated-list.html = 1665700785150
+/home/akai/Documents/tpmaven/target/site/testapidocs/allpackages-index.html = 1665700785142
+/home/akai/Documents/tpmaven/target/site/testapidocs/help-doc.html = 1665700785154
+/home/akai/Documents/tpmaven/target/site/testapidocs/stylesheet.css = 1665700785154
