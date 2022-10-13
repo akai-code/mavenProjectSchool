@@ -59,6 +59,18 @@ public class FirstPdfTest
         {
         }   
     }
+
+    public void testAddContent()
+    {
+        try
+        {
+            FirstPdf.addContent(doc);
+            assertNotNull("L'instance est pas créée", pdf);;
+        }catch(DocumentException de)
+        {
+
+        }
+    }
     /**
      * @return the suite of tests being tested
      */
