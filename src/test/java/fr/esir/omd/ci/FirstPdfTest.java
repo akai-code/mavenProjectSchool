@@ -65,10 +65,11 @@ public class FirstPdfTest
         try
         {
             FirstPdf.addContent(doc);
-            assertNotNull("L'instance est pas créée", pdf);;
+
+            assertNotNull("L'instance n'est pas créée",pdf);
         }catch(DocumentException de)
         {
-
+            
         }
     }
     /**
